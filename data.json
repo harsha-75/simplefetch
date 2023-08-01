@@ -1,0 +1,143 @@
+[
+      {
+        "name": "John Doe",
+        "rollno": "001",
+        "place": "New York",
+        "dob": "1999-03-15",
+        "major": "Computer Science"
+      },
+      {
+        "name": "Jane Smith",
+        "rollno": "002",
+        "place": "Los Angeles",
+        "dob": "2000-07-22",
+        "major": "Psychology"
+      },
+      {
+        "name": "Michael Johnson",
+        "rollno": "003",
+        "place": "Chicago",
+        "dob": "1998-11-10",
+        "major": "Business Administration"
+      },
+      {
+        "name": "Emily Brown",
+        "rollno": "004",
+        "place": "Houston",
+        "dob": "2001-05-03",
+        "major": "Biology"
+      },
+      {
+        "name": "William Lee",
+        "rollno": "005",
+        "place": "San Francisco",
+        "dob": "1997-09-28",
+        "major": "Economics"
+      },
+      {
+        "name": "Sophia Martinez",
+        "rollno": "006",
+        "place": "Miami",
+        "dob": "1999-02-18",
+        "major": "Political Science"
+      },
+      {
+        "name": "James Nguyen",
+        "rollno": "007",
+        "place": "Dallas",
+        "dob": "2002-06-20",
+        "major": "Engineering"
+      },
+      {
+        "name": "Olivia Wilson",
+        "rollno": "008",
+        "place": "Seattle",
+        "dob": "2000-09-12",
+        "major": "English Literature"
+      },
+      {
+        "name": "Liam Anderson",
+        "rollno": "009",
+        "place": "Boston",
+        "dob": "1998-04-08",
+        "major": "Mathematics"
+      },
+      {
+        "name": "Ava Thomas",
+        "rollno": "010",
+        "place": "Denver",
+        "dob": "2001-12-30",
+        "major": "Chemistry"
+      },
+      {
+        "name": "Noah White",
+        "rollno": "011",
+        "place": "Atlanta",
+        "dob": "1997-08-25",
+        "major": "History"
+      },
+      {
+        "name": "Isabella Scott",
+        "rollno": "012",
+        "place": "Phoenix",
+        "dob": "1999-01-17",
+        "major": "Sociology"
+      },
+      {
+        "name": "Ethan Hall",
+        "rollno": "013",
+        "place": "Philadelphia",
+        "dob": "2002-03-08",
+        "major": "Marketing"
+      },
+      {
+        "name": "Mia Green",
+        "rollno": "014",
+        "place": "Detroit",
+        "dob": "2000-06-11",
+        "major": "Communications"
+      },
+      {
+        "name": "Alexander Lopez",
+        "rollno": "015",
+        "place": "San Diego",
+        "dob": "1998-10-04",
+        "major": "Physics"
+      },
+      {
+        "name": "Evelyn Clark",
+        "rollno": "016",
+        "place": "Minneapolis",
+        "dob": "1999-04-21",
+        "major": "Art History"
+      },
+      {
+        "name": "Daniel Perez",
+        "rollno": "017",
+        "place": "Portland",
+        "dob": "2001-07-14",
+        "major": "Computer Engineering"
+      },
+      {
+        "name": "Sofia Turner",
+        "rollno": "018",
+        "place": "Charlotte",
+        "dob": "1997-11-02",
+        "major": "Journalism"
+      },
+      {
+        "name": "Matthew Martin",
+        "rollno": "019",
+        "place": "San Antonio",
+        "dob": "2000-02-27",
+        "major": "Environmental Science"
+      },
+      {
+        "name": "Avery Hill",
+        "rollno": "020",
+        "place": "Las Vegas",
+        "dob": "1998-05-09",
+        "major": "Film Studies"
+      }
+]
+  
